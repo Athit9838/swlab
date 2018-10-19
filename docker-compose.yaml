@@ -3,5 +3,5 @@ services:
  '58364722':
     image: athit/swlab
     ports:
-      - "8043:8000"
+      - "8043:3000"
     command: "node index.js"
