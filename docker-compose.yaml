@@ -1,7 +1,7 @@
 version: '3.5'
 services:
  '58364722':
-    image: boyzsawan/softwareengineeringlab
+    image: athit/swlab
     ports:
       - "8043:8000"
     command: "node index.js"
